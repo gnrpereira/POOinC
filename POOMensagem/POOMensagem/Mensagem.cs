@@ -1,14 +1,8 @@
-﻿using System;
-
-namespace POOMensagem
+﻿namespace POOMensagem
 {
     class Mensagem
     {
-        public string TextoMensagem;
+        public string TextoMensagem { get; set; }
 
-        public void ExibirMensagem()
-        {
-            Console.WriteLine(TextoMensagem);
-        }
     }
 }

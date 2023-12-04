@@ -1,4 +1,6 @@
-﻿namespace POOMensagem
+﻿using System;
+
+namespace POOMensagem
 {
     class Program
     {
@@ -6,11 +8,11 @@
         {
             Mensagem msg1 = new Mensagem();
             msg1.TextoMensagem = "Hello World";
-            msg1.ExibirMensagem();
+            Console.WriteLine(msg1.TextoMensagem);
 
             Mensagem msg2 = new Mensagem();
-            msg1.TextoMensagem = "Segundo objeto";
-            msg1.ExibirMensagem();
+            msg2.TextoMensagem = "Segundo objeto";
+            Console.WriteLine(msg2.TextoMensagem);
         }
     }
 }
