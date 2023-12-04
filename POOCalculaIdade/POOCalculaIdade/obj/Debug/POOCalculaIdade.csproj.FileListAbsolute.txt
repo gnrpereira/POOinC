@@ -1,0 +1,7 @@
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOCalculaIdade\POOCalculaIdade\bin\Debug\POOCalculaIdade.exe.config
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOCalculaIdade\POOCalculaIdade\bin\Debug\POOCalculaIdade.exe
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOCalculaIdade\POOCalculaIdade\bin\Debug\POOCalculaIdade.pdb
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOCalculaIdade\POOCalculaIdade\obj\Debug\POOCalculaIdade.csproj.AssemblyReference.cache
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOCalculaIdade\POOCalculaIdade\obj\Debug\POOCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOCalculaIdade\POOCalculaIdade\obj\Debug\POOCalculaIdade.exe
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOCalculaIdade\POOCalculaIdade\obj\Debug\POOCalculaIdade.pdb
