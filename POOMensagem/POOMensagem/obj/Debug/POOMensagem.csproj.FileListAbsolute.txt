@@ -1,0 +1,7 @@
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOMensagem\POOMensagem\bin\Debug\POOMensagem.exe.config
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOMensagem\POOMensagem\bin\Debug\POOMensagem.exe
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOMensagem\POOMensagem\bin\Debug\POOMensagem.pdb
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOMensagem\POOMensagem\obj\Debug\POOMensagem.csproj.AssemblyReference.cache
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOMensagem\POOMensagem\obj\Debug\POOMensagem.csproj.CoreCompileInputs.cache
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOMensagem\POOMensagem\obj\Debug\POOMensagem.exe
+C:\Users\gpere\OneDrive\Área de Trabalho\POO\POOMensagem\POOMensagem\obj\Debug\POOMensagem.pdb
