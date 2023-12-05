@@ -20,21 +20,33 @@ namespace POOCalculaIdade
             set { nome = value.ToUpper(); }
         }
 
-        public void ExibirDados()
+        //Vamos melhorar
+        private int idade;
+
+        public int Idade
         {
-            Console.WriteLine($"Nome: {this.Nome}");
-            Console.WriteLine($"Ano de nascimento: {this.AnoNascimento}");
-            int idade = this.CalcularIdade();
-            Console.WriteLine($"Idade: {idade} anos");
+            get
+            {
+                this.CalcularIdade();
+                return idade;
+            }
         }
 
-        private int CalcularIdade()
+
+        public void ExibirDados()
+        {
+            Console.WriteLine();
+            Console.WriteLine($"Nome: {this.Nome}");
+            Console.WriteLine($"Ano de nascimento: {this.AnoNascimento}");
+            this.CalcularIdade();
+            Console.WriteLine($"Idade: {this.Idade} anos");
+        }
+
+        private void CalcularIdade()
         {
             DateTime data = DateTime.Now;
             int ano = data.Year;
-            int idade = ano - this.AnoNascimento;
-
-            return idade;
+            this.idade = ano - this.AnoNascimento;
         }
 
     }
